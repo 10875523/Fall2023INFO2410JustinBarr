@@ -1,0 +1,67 @@
+﻿<Window x:Class="MO3Part.PlantDetailsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MO3Part"
+        mc:Ignorable="d"
+        Title="PlantDetailsWindow" Height="450" Width="800">
+  <Grid>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*"/>
+      <ColumnDefinition Width="*"/>
+    </Grid.ColumnDefinitions>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+    <Label Content="Name: "
+           Grid.Row="0"
+           Grid.Column="0"
+           FontSize="30"
+           HorizontalAlignment="Right"
+           VerticalAlignment="Center"/>
+    <Label Content="Type: "
+           Grid.Row="1"
+           Grid.Column="0"
+           FontSize="30"
+           HorizontalAlignment="Right"
+           VerticalAlignment="Center"/>
+    <Label Content="Environment: "
+           Grid.Row="2"
+           Grid.Column="0"
+           FontSize="30"
+           HorizontalAlignment="Right"
+           VerticalAlignment="Center"/>
+    <Label x:Name="LblPlantName"
+           Content="Results..."
+           Grid.Row="0"
+           Grid.Column="1"
+           FontSize="30"
+           HorizontalAlignment="Left"
+           VerticalAlignment="Center"/>
+    <Label x:Name="LblPlantType"
+           Content="Results..."
+           Grid.Row="1"
+           Grid.Column="1"
+           FontSize="30"
+           HorizontalAlignment="Left"
+           VerticalAlignment="Center"/>
+    <Label x:Name="LblPlantEnv"
+           Content="Results..."
+           Grid.Row="2"
+           Grid.Column="1"
+           FontSize="30"
+           HorizontalAlignment="Left"
+           VerticalAlignment="Center"/>
+    <Button x:Name="BtnSniff"
+            Grid.Row="3"
+            Grid.ColumnSpan="2"
+            Content="Sniff"
+            FontSize="30"
+            Margin="10" 
+            Click="BtnSniff_Click"/>
+  </Grid>
+</Window>

@@ -1,0 +1,17 @@
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\bin\Debug\MO3Part.exe.config
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\bin\Debug\MO3Part.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\bin\Debug\MO3Part.pdb
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\obj\Debug\MO3Part.csproj.AssemblyReference.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\obj\Debug\MainWindow.g.cs
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\obj\Debug\PlantDetailsWindow.g.cs
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\obj\Debug\App.g.cs
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\obj\Debug\MO3Part_MarkupCompile.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\obj\Debug\MO3Part_MarkupCompile.lref
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\obj\Debug\MainWindow.baml
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\obj\Debug\PlantDetailsWindow.baml
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\obj\Debug\MO3Part.g.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\obj\Debug\MO3Part.Properties.Resources.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\obj\Debug\MO3Part.csproj.GenerateResource.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\obj\Debug\MO3Part.csproj.CoreCompileInputs.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\obj\Debug\MO3Part.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO3Part\MO3Part\obj\Debug\MO3Part.pdb

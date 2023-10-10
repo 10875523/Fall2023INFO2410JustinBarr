@@ -1,0 +1,15 @@
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\obj\Debug\JustinBarrTheAnimalFarmMO3.csproj.AssemblyReference.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\obj\Debug\MainWindow.g.cs
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\obj\Debug\App.g.cs
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\obj\Debug\JustinBarrTheAnimalFarmMO3_MarkupCompile.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\obj\Debug\JustinBarrTheAnimalFarmMO3_MarkupCompile.lref
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\bin\Debug\JustinBarrTheAnimalFarmMO3.exe.config
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\bin\Debug\JustinBarrTheAnimalFarmMO3.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\bin\Debug\JustinBarrTheAnimalFarmMO3.pdb
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\obj\Debug\MainWindow.baml
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\obj\Debug\JustinBarrTheAnimalFarmMO3.g.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\obj\Debug\JustinBarrTheAnimalFarmMO3.Properties.Resources.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\obj\Debug\JustinBarrTheAnimalFarmMO3.csproj.GenerateResource.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\obj\Debug\JustinBarrTheAnimalFarmMO3.csproj.CoreCompileInputs.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\obj\Debug\JustinBarrTheAnimalFarmMO3.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\JustinBarrTheAnimalFarmMO3\obj\Debug\JustinBarrTheAnimalFarmMO3.pdb

@@ -1,0 +1,24 @@
+﻿<Window x:Class="PhoneDetails.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhoneDetails"
+        mc:Ignorable="d"
+        Title="Favorite Phones" Height="250" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <ComboBox x:Name="CbPhones"
+                  Margin="30"
+                  FontSize="30"/>
+        <Button x:Name="BtnPhoneDetails"
+                FontSize="30"
+                Content="Show Phone Details"
+                Grid.Row="1"
+                Margin="30"
+                Click="BtnPhoneDetails_Click"/>
+    </Grid>
+</Window>

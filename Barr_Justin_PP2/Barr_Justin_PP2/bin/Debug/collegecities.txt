@@ -1,0 +1,18 @@
+College,City
+University of Utah,Salt Lake City
+Utah State University,Logan
+Westminster University,Salt Lake City
+Northern Arizon University,Flagstaff
+Arizona State University,Tempe
+University of Phoenix,Phoenix
+Southern Utah University,Cedar City
+University of Oregon,Eugene
+Eastern Oregon University,La Grande
+Washington State University,Pullman
+University of Wyoming,Laramie
+Columbia University,New York
+Oregon State University,Corvallis
+Stanford University,Stanford
+Univeristy of Minnesota,Minneapolis
+Harvard University,Cambridge
+Utah Valley University,Orem

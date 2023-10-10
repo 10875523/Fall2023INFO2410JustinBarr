@@ -1,0 +1,13 @@
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\LocalPhoneDB.mdf
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\LocalPhoneDB_log.ldf
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\ParticipationMO4.exe.config
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\ParticipationMO4.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\ParticipationMO4.pdb
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.csproj.AssemblyReference.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.Form1.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.Properties.Resources.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.csproj.GenerateResource.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.csproj.CoreCompileInputs.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.pdb
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.LocalPhoneForm.resources

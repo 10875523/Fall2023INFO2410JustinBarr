@@ -1,0 +1,17 @@
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\bin\Debug\PhoneDetails.exe.config
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\bin\Debug\PhoneDetails.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\bin\Debug\PhoneDetails.pdb
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\obj\Debug\PhoneDetails.csproj.AssemblyReference.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\obj\Debug\MainWindow.g.cs
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\obj\Debug\PhoneDetailsWindow.g.cs
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\obj\Debug\App.g.cs
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\obj\Debug\PhoneDetails_MarkupCompile.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\obj\Debug\PhoneDetails_MarkupCompile.lref
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\obj\Debug\MainWindow.baml
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\obj\Debug\PhoneDetailsWindow.baml
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\obj\Debug\PhoneDetails.g.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\obj\Debug\PhoneDetails.Properties.Resources.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\obj\Debug\PhoneDetails.csproj.GenerateResource.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\obj\Debug\PhoneDetails.csproj.CoreCompileInputs.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\obj\Debug\PhoneDetails.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\PhoneDetails\obj\Debug\PhoneDetails.pdb

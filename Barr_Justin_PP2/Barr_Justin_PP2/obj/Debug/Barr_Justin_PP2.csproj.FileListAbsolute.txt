@@ -1,0 +1,7 @@
+C:\Users\3dsju\source\repos\Barr_Justin_PP2\Barr_Justin_PP2\obj\Debug\Barr_Justin_PP2.csproj.AssemblyReference.cache
+C:\Users\3dsju\source\repos\Barr_Justin_PP2\Barr_Justin_PP2\obj\Debug\Barr_Justin_PP2.csproj.CoreCompileInputs.cache
+C:\Users\3dsju\source\repos\Barr_Justin_PP2\Barr_Justin_PP2\bin\Debug\Barr_Justin_PP2.exe.config
+C:\Users\3dsju\source\repos\Barr_Justin_PP2\Barr_Justin_PP2\bin\Debug\Barr_Justin_PP2.exe
+C:\Users\3dsju\source\repos\Barr_Justin_PP2\Barr_Justin_PP2\bin\Debug\Barr_Justin_PP2.pdb
+C:\Users\3dsju\source\repos\Barr_Justin_PP2\Barr_Justin_PP2\obj\Debug\Barr_Justin_PP2.exe
+C:\Users\3dsju\source\repos\Barr_Justin_PP2\Barr_Justin_PP2\obj\Debug\Barr_Justin_PP2.pdb
