@@ -31,5 +31,31 @@ namespace ParticipationMO4
             this.phoneListTableTableAdapter.Fill(this.localPhoneDBDataSet1.PhoneListTable);
 
         }
+
+        private void Btn_SortLN_Click(object sender, EventArgs e)
+        {
+            this.phoneListTableTableAdapter.SortByLastName(this.localPhoneDBDataSet1.PhoneListTable);
+        }
+
+        private void Btn_Age30_Click(object sender, EventArgs e)
+        {
+            this.phoneListTableTableAdapter.FillByAge30(this.localPhoneDBDataSet1.PhoneListTable);
+        }
+
+        private void Btn_AvgAge_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show($"The Average Age is: {this.phoneListTableTableAdapter.AverageAge()}");
+        }
+
+        private void Btn_Clear_Click(object sender, EventArgs e)
+        {
+            LocalPhoneForm_Load(sender, e);
+        }
+
+        private void Btn_Search_Click(object sender, EventArgs e)
+        {
+            this.phoneListTableTableAdapter.FillByFirstName(this.localPhoneDBDataSet1.PhoneListTable, TxtBox_FirstName.Text);
+
+        }
     }
 }
