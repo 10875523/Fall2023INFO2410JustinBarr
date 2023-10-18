@@ -12,6 +12,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -24,7 +25,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -61,6 +61,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ImportedPhoneForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportedPhoneForm.Designer.cs">
+      <DependentUpon>ImportedPhoneForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="LandingForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,8 +89,32 @@
     <Compile Include="LocalPhoneForm.Designer.cs">
       <DependentUpon>LocalPhoneForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="OnlinePhoneForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OnlinePhoneForm.Designer.cs">
+      <DependentUpon>OnlinePhoneForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UVUPhoneNumsWorksDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UVUPhoneNumsWorksDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_UVUPhoneNums_1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_UVUPhoneNums_1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_UVUPhoneNums_1DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_UVUPhoneNums_1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ImportedPhoneForm.resx">
+      <DependentUpon>ImportedPhoneForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LandingForm.resx">
       <DependentUpon>LandingForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -131,6 +161,39 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="UVUPhoneNumsWorksDataSet.xsc">
+      <DependentUpon>UVUPhoneNumsWorksDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UVUPhoneNumsWorksDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UVUPhoneNumsWorksDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UVUPhoneNumsWorksDataSet.xss">
+      <DependentUpon>UVUPhoneNumsWorksDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_UVUPhoneNums_1DataSet.xsc">
+      <DependentUpon>_UVUPhoneNums_1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_UVUPhoneNums_1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_UVUPhoneNums_1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_UVUPhoneNums_1DataSet.xss">
+      <DependentUpon>_UVUPhoneNums_1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_UVUPhoneNums_1DataSet1.xsc">
+      <DependentUpon>_UVUPhoneNums_1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="_UVUPhoneNums_1DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_UVUPhoneNums_1DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_UVUPhoneNums_1DataSet1.xss">
+      <DependentUpon>_UVUPhoneNums_1DataSet1.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -142,6 +205,13 @@
     <Content Include="LocalPhoneDB_log.ldf">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <DependentUpon>LocalPhoneDB.mdf</DependentUpon>
+    </Content>
+    <Content Include="UVUPhoneNums-1.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="UVUPhoneNums-1_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>UVUPhoneNums-1.mdf</DependentUpon>
     </Content>
   </ItemGroup>
   <ItemGroup>

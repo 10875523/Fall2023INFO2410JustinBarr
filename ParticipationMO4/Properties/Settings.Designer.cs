@@ -33,5 +33,27 @@ namespace ParticipationMO4.Properties {
                 return ((string)(this["LocalPhoneDBConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\UVUPhoneNums-" +
+            "1.mdf;Integrated Security=True;Connect Timeout=30")]
+        public string UVUPhoneNums_1ConnectionString {
+            get {
+                return ((string)(this["UVUPhoneNums_1ConnectionString"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\3dsju\\Downloads\\UVUP" +
+            "honeNumsWorks.mdf;Integrated Security=True;Connect Timeout=30")]
+        public string UVUPhoneNumsWorksConnectionString {
+            get {
+                return ((string)(this["UVUPhoneNumsWorksConnectionString"]));
+            }
+        }
     }
 }

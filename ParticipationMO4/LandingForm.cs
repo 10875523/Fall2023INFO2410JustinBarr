@@ -42,7 +42,8 @@ namespace ParticipationMO4
 
         private void BtnImportedNums_Click(object sender, EventArgs e)
         {
-
+            ImportedPhoneForm frm = new ImportedPhoneForm();
+            frm.ShowDialog();
         }
 
         private void BtnOnlineNums_Click(object sender, EventArgs e)

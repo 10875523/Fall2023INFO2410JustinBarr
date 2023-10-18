@@ -24,3 +24,6 @@ C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.csproj.CoreCompileInputs.cache
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.exe
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.pdb
+C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.ImportedPhoneForm.resources
+C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\UVUPhoneNums-1.mdf
+C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\UVUPhoneNums-1_log.ldf
