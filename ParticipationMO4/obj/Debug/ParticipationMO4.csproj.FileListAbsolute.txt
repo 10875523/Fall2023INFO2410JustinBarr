@@ -15,6 +15,7 @@ D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationM
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\LocalPhoneDB.mdf
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\LocalPhoneDB_log.ldf
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\ParticipationMO4.exe.config
@@ -31,6 +32,8 @@ C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.ImportedPhoneForm.resources
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\UVUPhoneNums-1.mdf
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\UVUPhoneNums-1_log.ldf
+=======
+>>>>>>> parent of 9df8a70 (LocalPhoneNumberGUI)
 =======
 >>>>>>> parent of 9df8a70 (LocalPhoneNumberGUI)
 =======
