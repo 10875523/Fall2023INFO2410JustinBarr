@@ -31,6 +31,7 @@ namespace ParticipationMO4
             this.phoneListTableTableAdapter.Fill(this.localPhoneDBDataSet1.PhoneListTable);
 
         }
+<<<<<<< HEAD
 
         private void Btn_SortLN_Click(object sender, EventArgs e)
         {
@@ -57,5 +58,7 @@ namespace ParticipationMO4
             this.phoneListTableTableAdapter.FillByFirstName(this.localPhoneDBDataSet1.PhoneListTable, TxtBox_FirstName.Text);
 
         }
+=======
+>>>>>>> parent of 9df8a70 (LocalPhoneNumberGUI)
     }
 }
