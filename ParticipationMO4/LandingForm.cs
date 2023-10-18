@@ -12,11 +12,19 @@ namespace ParticipationMO4
 {
     public partial class LandingForm : Form
     {
+        /// <summary>
+        /// Initializes LandingForm
+        /// </summary>
         public LandingForm()
         {
             InitializeComponent();
         }
 
+        /// <summary>
+        /// Saves Updates
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void phoneListTableBindingNavigatorSaveItem_Click(object sender, EventArgs e)
         {
             this.Validate();
@@ -32,27 +40,51 @@ namespace ParticipationMO4
 
         }
 
-        //Please work
-
+        /// <summary>
+        /// Opens Local Numbers form
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void BtnLocalNums_Click(object sender, EventArgs e)
         {
+            //Creates and shows instance of localPhoneForm
             LocalPhoneForm localPhoneForm = new LocalPhoneForm();
             localPhoneForm.ShowDialog();
         }
 
+        /// <summary>
+        /// Opens the importednums Form
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void BtnImportedNums_Click(object sender, EventArgs e)
         {
-
+            //Creates and shows instance of ImportedPhoneForm
+            ImportedPhoneForm frm = new ImportedPhoneForm();
+            frm.ShowDialog();
         }
 
+        /// <summary>
+        /// Opens OnlineNums Form
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void BtnOnlineNums_Click(object sender, EventArgs e)
         {
-
+            //Creates and shows instance of OnlinePhoneForm
+            OnlinePhoneForm frm = new OnlinePhoneForm();
+            frm.ShowDialog();
         }
 
+        /// <summary>
+        /// Quits application
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void BtnClose_Click(object sender, EventArgs e)
         {
-
+            //Closes application
+            Close();
         }
     }
 }

@@ -33,5 +33,27 @@ namespace ParticipationMO4.Properties {
                 return ((string)(this["LocalPhoneDBConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\3dsju\\Downloads\\UVUP" +
+            "honeNumsWorks.mdf;Integrated Security=True;Connect Timeout=30")]
+        public string UVUPhoneNumsWorksConnectionString {
+            get {
+                return ((string)(this["UVUPhoneNumsWorksConnectionString"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=bigdataa.ad.uvu.edu;Initial Catalog=INFO2200_CrandallSay;Persist Secu" +
+            "rity Info=True;User ID=jbmuser;Password=jellybellymovie")]
+        public string INFO2200_CrandallSayConnectionString {
+            get {
+                return ((string)(this["INFO2200_CrandallSayConnectionString"]));
+            }
+        }
     }
 }

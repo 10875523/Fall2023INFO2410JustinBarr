@@ -61,6 +61,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ImportedPhoneForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportedPhoneForm.Designer.cs">
+      <DependentUpon>ImportedPhoneForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INFO2200_CrandallSayDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>INFO2200_CrandallSayDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="INFO2200_CrandallSaySP.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>INFO2200_CrandallSaySP.xsd</DependentUpon>
+    </Compile>
     <Compile Include="LandingForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,13 +99,39 @@
     <Compile Include="LocalPhoneForm.Designer.cs">
       <DependentUpon>LocalPhoneForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="OnlinePhoneForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OnlinePhoneForm.Designer.cs">
+      <DependentUpon>OnlinePhoneForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OnlineSummaryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OnlineSummaryForm.Designer.cs">
+      <DependentUpon>OnlineSummaryForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UVUPhoneNumsWorksDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UVUPhoneNumsWorksDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ImportedPhoneForm.resx">
+      <DependentUpon>ImportedPhoneForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LandingForm.resx">
       <DependentUpon>LandingForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LocalPhoneForm.resx">
       <DependentUpon>LocalPhoneForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OnlinePhoneForm.resx">
+      <DependentUpon>OnlinePhoneForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OnlineSummaryForm.resx">
+      <DependentUpon>OnlineSummaryForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -100,6 +142,28 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="INFO2200_CrandallSayDataSet.xsc">
+      <DependentUpon>INFO2200_CrandallSayDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="INFO2200_CrandallSayDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>INFO2200_CrandallSayDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="INFO2200_CrandallSayDataSet.xss">
+      <DependentUpon>INFO2200_CrandallSayDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="INFO2200_CrandallSaySP.xsc">
+      <DependentUpon>INFO2200_CrandallSaySP.xsd</DependentUpon>
+    </None>
+    <None Include="INFO2200_CrandallSaySP.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>INFO2200_CrandallSaySP.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="INFO2200_CrandallSaySP.xss">
+      <DependentUpon>INFO2200_CrandallSaySP.xsd</DependentUpon>
+    </None>
     <None Include="LocalPhoneDBDataSet.xsc">
       <DependentUpon>LocalPhoneDBDataSet.xsd</DependentUpon>
     </None>
@@ -131,6 +195,17 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="UVUPhoneNumsWorksDataSet.xsc">
+      <DependentUpon>UVUPhoneNumsWorksDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UVUPhoneNumsWorksDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UVUPhoneNumsWorksDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UVUPhoneNumsWorksDataSet.xss">
+      <DependentUpon>UVUPhoneNumsWorksDataSet.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
