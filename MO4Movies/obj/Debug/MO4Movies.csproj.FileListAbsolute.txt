@@ -1,0 +1,11 @@
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO4Movies\bin\Debug\MO4Movies.exe.config
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO4Movies\bin\Debug\MO4Movies.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO4Movies\bin\Debug\MO4Movies.pdb
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO4Movies\obj\Debug\MO4Movies.csproj.AssemblyReference.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO4Movies\obj\Debug\MO4Movies.Properties.Resources.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO4Movies\obj\Debug\MO4Movies.csproj.GenerateResource.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO4Movies\obj\Debug\MO4Movies.csproj.CoreCompileInputs.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO4Movies\obj\Debug\MO4Movies.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO4Movies\obj\Debug\MO4Movies.pdb
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO4Movies\obj\Debug\MO4Movies.MoviesForm.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\MO4Movies\obj\Debug\MO4Movies.MovieDb.resources
