@@ -33,6 +33,11 @@ namespace ParticipationMO4
 
         }
 
+        /// <summary>
+        /// Loads Form
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Form1_Load(object sender, EventArgs e)
         {
             // TODO: This line of code loads data into the 'localPhoneDBDataSet1.PhoneListTable' table. You can move, or remove it, as needed.
