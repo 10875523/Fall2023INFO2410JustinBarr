@@ -4,7 +4,6 @@ D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\ParticipationM
 D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\ParticipationMO4.exe
 D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\bin\Debug\ParticipationMO4.pdb
 D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.csproj.AssemblyReference.cache
-D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.Form1.resources
 D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.Properties.Resources.resources
 D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.csproj.GenerateResource.cache
 D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.csproj.CoreCompileInputs.cache
@@ -27,3 +26,7 @@ C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.ImportedPhoneForm.resources
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.OnlinePhoneForm.resources
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.OnlineSummaryForm.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.ImportedPhoneForm.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.LandingForm.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.OnlinePhoneForm.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\ParticipationMO4\obj\Debug\ParticipationMO4.OnlineSummaryForm.resources
