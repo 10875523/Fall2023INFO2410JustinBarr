@@ -9,6 +9,7 @@ namespace M05Participation_JustinBarr
     [Table("Product")]
     public partial class Product
     {
+        //Creates readable writeable variable to use in sql statements
         [Key]
         [StringLength(5)]
         public string Product_Number { get; set; }

@@ -49,6 +49,7 @@
             this.Controls.Add(this.LSTViewCat);
             this.Name = "CategoryForm";
             this.Text = "CategoryForm";
+            this.Load += new System.EventHandler(this.CategoryForm_Load);
             this.ResumeLayout(false);
 
         }

@@ -14,17 +14,30 @@ namespace M05Participation_JustinBarr
     {
         public LandingForm()
         {
+            //Initializes Form
             InitializeComponent();
         }
 
+        /// <summary>
+        /// Loads the product search form from the button
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void BTNProdSearch_Click(object sender, EventArgs e)
         {
+            //Create instance of product search form and opens it
             ProductSearchForm productSearchForm = new ProductSearchForm();
             productSearchForm.ShowDialog();
         }
 
+        /// <summary>
+        /// Loads the Category group form from the button
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void BTNGroupCat_Click(object sender, EventArgs e)
         {
+            //Create instance of product search form and opens it
             CategoryForm categoryForm = new CategoryForm();
             categoryForm.ShowDialog();
         }
