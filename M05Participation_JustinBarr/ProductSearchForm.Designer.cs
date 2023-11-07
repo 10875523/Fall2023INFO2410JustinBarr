@@ -116,6 +116,7 @@
             this.Controls.Add(this.DGVProducts);
             this.Name = "ProductSearchForm";
             this.Text = "ProductSearchForm";
+            this.Load += new System.EventHandler(this.ProductSearchForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.DGVProducts)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

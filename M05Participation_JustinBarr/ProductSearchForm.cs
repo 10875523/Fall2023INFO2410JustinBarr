@@ -12,6 +12,8 @@ namespace M05Participation_JustinBarr
 {
     public partial class ProductSearchForm : Form
     {
+        //Create an instance of the database class
+        ProductDbContext db = new ProductDbContext();
         public ProductSearchForm()
         {
             InitializeComponent();
@@ -30,6 +32,15 @@ namespace M05Participation_JustinBarr
         private void TXTProductDesc_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void ProductSearchForm_Load(object sender, EventArgs e)
+        {
+            List<Product> products = (from prod in db.Products select prod).ToList();
+            //var products = db.Products.ToList();
+
+            DGVProducts.DataSource = products;
+            CBProductID.Items.AddRange(products.Select(prod => prod.Product_Number).ToArray());
         }
     }
 }

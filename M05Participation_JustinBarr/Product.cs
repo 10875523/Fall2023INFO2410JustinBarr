@@ -22,6 +22,8 @@ namespace M05Participation_JustinBarr
         [Column(TypeName = "money")]
         public decimal Price { get; set; }
 
-        //public string Category { get; set; }
+        [Required(ErrorMessage = "Please enter a category.")]
+        [StringLength(50)]
+        public string Category { get; set; }
     }
 }
