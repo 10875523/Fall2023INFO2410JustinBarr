@@ -41,5 +41,6 @@ namespace M05Participation_JustinBarr
             CategoryForm categoryForm = new CategoryForm();
             categoryForm.ShowDialog();
         }
+
     }
 }

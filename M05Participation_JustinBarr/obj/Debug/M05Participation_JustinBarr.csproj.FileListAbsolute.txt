@@ -32,3 +32,4 @@ C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\M05Participation_Just
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\M05Participation_JustinBarr\obj\Debug\M05Participation_JustinBarr.csproj.CopyComplete
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\M05Participation_JustinBarr\obj\Debug\M05Participation_JustinBarr.exe
 C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\M05Participation_JustinBarr\obj\Debug\M05Participation_JustinBarr.pdb
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05Participation_JustinBarr\obj\Debug\M05Participation_JustinBarr.AddProductForm.resources
