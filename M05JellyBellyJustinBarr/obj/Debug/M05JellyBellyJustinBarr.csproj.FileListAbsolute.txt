@@ -1,0 +1,17 @@
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\bin\Debug\M05JellyBellyJustinBarr.exe.config
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\bin\Debug\M05JellyBellyJustinBarr.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\bin\Debug\M05JellyBellyJustinBarr.pdb
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\bin\Debug\EntityFramework.dll
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\bin\Debug\EntityFramework.xml
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\obj\Debug\M05JellyBellyJustinBarr.csproj.AssemblyReference.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\obj\Debug\M05JellyBellyJustinBarr.Properties.Resources.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\obj\Debug\M05JellyBellyJustinBarr.csproj.GenerateResource.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\obj\Debug\M05JellyBellyJustinBarr.csproj.CoreCompileInputs.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\obj\Debug\M05JellyBellyJustinBarr.csproj.CopyComplete
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\obj\Debug\M05JellyBellyJustinBarr.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\obj\Debug\M05JellyBellyJustinBarr.pdb
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\obj\Debug\M05JellyBellyJustinBarr.JellyBellyCentral.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\obj\Debug\M05JellyBellyJustinBarr.JellyBellyForm.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\M05JellyBellyJustinBarr\obj\Debug\M05JellyBellyJustinBarr.CategoryForm.resources
