@@ -1,0 +1,10 @@
+D:\GitRepos\Fall2023INFO2410JustinBarr\ClientServerApp\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\ClientServerApp\ClientApp\obj\Debug\ClientApp.ClientForm.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\ClientServerApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\ClientServerApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\ClientServerApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\ClientServerApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\GitRepos\Fall2023INFO2410JustinBarr\ClientServerApp\ClientApp\bin\Debug\ClientApp.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\ClientServerApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\GitRepos\Fall2023INFO2410JustinBarr\ClientServerApp\ClientApp\obj\Debug\ClientApp.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\ClientServerApp\ClientApp\obj\Debug\ClientApp.pdb
