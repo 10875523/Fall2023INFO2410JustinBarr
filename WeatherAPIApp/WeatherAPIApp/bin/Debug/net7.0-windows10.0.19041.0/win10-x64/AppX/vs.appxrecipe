@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\WeatherAPIApp\WeatherAPIApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-30T19:29:18.349</Modified>
+      <Modified>2023-11-30T19:41:45.941</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\WeatherAPIApp\WeatherAPIApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WeatherAPIApp.dll">
       <PackagePath>WeatherAPIApp.dll</PackagePath>
-      <Modified>2023-11-30T19:29:16.348</Modified>
+      <Modified>2023-11-30T19:41:42.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\WeatherAPIApp\WeatherAPIApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>WeatherAPIApp.exe</PackagePath>
-      <Modified>2023-11-30T19:29:16.367</Modified>
+      <Modified>2023-11-30T19:41:42.702</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3dsju\Documents\GitHub\Fall2023INFO2410JustinBarr\WeatherAPIApp\WeatherAPIApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WeatherAPIApp.deps.json">
       <PackagePath>WeatherAPIApp.deps.json</PackagePath>
