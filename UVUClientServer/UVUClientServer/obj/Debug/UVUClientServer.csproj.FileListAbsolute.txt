@@ -1,0 +1,10 @@
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUClientServer\bin\Debug\UVUClientServer.exe.config
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUClientServer\bin\Debug\UVUClientServer.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUClientServer\bin\Debug\UVUClientServer.pdb
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUClientServer\obj\Debug\UVUClientServer.csproj.AssemblyReference.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUClientServer\obj\Debug\UVUClientServer.Properties.Resources.resources
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUClientServer\obj\Debug\UVUClientServer.csproj.GenerateResource.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUClientServer\obj\Debug\UVUClientServer.csproj.CoreCompileInputs.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUClientServer\obj\Debug\UVUClientServer.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUClientServer\obj\Debug\UVUClientServer.pdb
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUClientServer\obj\Debug\UVUClientServer.ClientRequest.resources

@@ -1,0 +1,7 @@
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUResponseServer\bin\Debug\UVUResponseServer.exe.config
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUResponseServer\bin\Debug\UVUResponseServer.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUResponseServer\bin\Debug\UVUResponseServer.pdb
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUResponseServer\obj\Debug\UVUResponseServer.csproj.AssemblyReference.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUResponseServer\obj\Debug\UVUResponseServer.csproj.CoreCompileInputs.cache
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUResponseServer\obj\Debug\UVUResponseServer.exe
+D:\GitRepos\Fall2023INFO2410JustinBarr\UVUClientServer\UVUResponseServer\obj\Debug\UVUResponseServer.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UVUClientServer", "UVUClientServer\UVUClientServer.csproj", "{A0BE7A6F-510E-442B-B521-8D42EED3EA6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UVUResponseServer", "UVUResponseServer\UVUResponseServer.csproj", "{82E4DE40-5A5A-4489-BCED-AA786F8A117F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0BE7A6F-510E-442B-B521-8D42EED3EA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BE7A6F-510E-442B-B521-8D42EED3EA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BE7A6F-510E-442B-B521-8D42EED3EA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BE7A6F-510E-442B-B521-8D42EED3EA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E4DE40-5A5A-4489-BCED-AA786F8A117F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E4DE40-5A5A-4489-BCED-AA786F8A117F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E4DE40-5A5A-4489-BCED-AA786F8A117F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E4DE40-5A5A-4489-BCED-AA786F8A117F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FCC48DC-B769-4B77-88B2-D334EB1BD2FB}
+	EndGlobalSection
+EndGlobal
