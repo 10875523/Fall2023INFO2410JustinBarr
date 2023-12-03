@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="M07EarthquakeAPI.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Label Text="Justin's Earthquake Search"
+                   FontSize="Title"
+                   HorizontalOptions="CenterAndExpand"
+                   Margin="10, 20, 10, 0"/>
+
+            <Label Text="Earthquakes Between"
+                   FontSize="Subtitle"
+                   HorizontalOptions="CenterAndExpand"
+                   Margin="10, 10, 10, 0"/>
+            <DatePicker x:Name="StartDatePicker"
+                        HorizontalOptions="CenterAndExpand"
+                        Margin="10, 0, 10, 0"/>
+            <DatePicker x:Name="EndDatePicker"
+                        HorizontalOptions="CenterAndExpand"
+                        Margin="10, 0, 10, 10"/>
+
+            <Label Text="Earthquake size (1-10)"
+                   FontSize="Subtitle"
+                   HorizontalOptions="CenterAndExpand"
+                   Margin="10, 0, 10, 0"/>
+            <Entry x:Name="TXTMagnitudeEntry"
+                   HorizontalOptions="CenterAndExpand"
+                   Margin="10, 0, 10, 10"
+                   MinimumWidthRequest="100"/>
+
+            <Button x:Name="BTNFind" 
+                    Text="Find"
+                    Clicked="BTNFind_Clicked"
+                    HorizontalOptions="CenterAndExpand"
+                    Margin="10, 0, 10, 10"/>
+
+            <Label x:Name="LblResults"
+                   HorizontalOptions="CenterAndExpand"
+                   FontSize="Small"
+                   Margin="10, 0, 10, 10"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
