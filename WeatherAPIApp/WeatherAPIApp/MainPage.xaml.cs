@@ -50,6 +50,10 @@ namespace WeatherAPIApp
                         WeatherGV.HighTemp = double.Parse(main["temp_max"].ToString());
                         WeatherGV.LowTemp = double.Parse(main["temp_min"].ToString());
 
+                        JObject wind = JObject.Parse(jo["wind"].ToString());
+                        WeatherGV.WindSpeed = double.Parse(wind["speed"].ToString());
+                        WeatherGV.Direction = double.Parse(wind["deg"].ToString());
+
                         // Extracting city information from the JSON response.
                         WeatherGV.City = jo["name"].ToString();
 

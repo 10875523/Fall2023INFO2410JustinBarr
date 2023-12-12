@@ -13,5 +13,7 @@ namespace WeatherAPIApp
         public static double HighTemp { get; set; }
         public static double LowTemp { get; set; }
         public static string City { get; set; }
+        public static double WindSpeed { get; set; }
+        public static double Direction { get; set; }
     }
 }

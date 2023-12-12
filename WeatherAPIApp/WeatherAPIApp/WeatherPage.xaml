@@ -31,5 +31,21 @@
             VerticalOptions="Center"
             HorizontalOptions="Center"
             FontSize="Subtitle"/>
+
+        <Label 
+            x:Name="LblWindSpeed"
+            Text="Wind Speed"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="Subtitle"/>
+
+        <Label
+            x:Name="LblWindDirection"
+            Text="Wind Direction"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            FontSize="Subtitle"/>
+
+
     </VerticalStackLayout>
 </ContentPage>
